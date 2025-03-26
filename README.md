@@ -2,4 +2,4 @@
 
 ## Demo Screenshot
 
-![Booking Dashboard](Documentation and Video/Dashboard Screenshot.png)
+(Documentation and Video/Dashboard Screenshot.png)
