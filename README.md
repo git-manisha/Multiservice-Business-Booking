@@ -1,5 +1,5 @@
 # Multiservice Business Booking
 
 
-<img src="screenshots/app-preview.png" alt="App Screenshot" width="600">
+<img src="Documentation and Video/Dashboard Screenshot.png" alt="Dashboard Screenshot" width="600">
 
